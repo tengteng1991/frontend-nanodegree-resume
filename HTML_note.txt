@@ -1,0 +1,5 @@
+This course is meant to teach you JavaScript. JavaScript is the programming language used to make websites come alive. It often does so by manipulating a website's HTML. In this course, you'll be making a website by writing JavaScript that writes HTML.
+
+HTML stands for HyperText Markup Language. HyperText is a word that's meant to sound cool, when in fact it just means text. Markup means that HTML text is used to describe something more complex - a website! Moving lines of HTML around is, in some ways, like moving paragraphs around in a book.
+
+The code you're going to be writing will simply inject new lines of HTML text to a document.
